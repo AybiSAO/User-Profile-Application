@@ -1,2 +1,1 @@
-Group Number 6
-Topic 3
+This is a Mini project on User-Profile Application that models user data using a class. It is actually prepared by TEAM GROUP 6 at Backend Development/TechCrush
